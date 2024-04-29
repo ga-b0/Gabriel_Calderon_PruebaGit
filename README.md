@@ -1,7 +1,7 @@
 
 # Multijugador PUN
 
-El proyecto consta de una simulación de un videojuego en línea hecho con Unity y la librería de Photon para el apartado del multijugador. En el proyecto hacemos uso de la creación de salas además de instanciar a los jugadores que se unan dentro de la escena del juego.
+El proyecto consta de una simulación de un videojuego en línea hecho con Unity (2022.3.5f1) y la librería de Photon para el apartado del multijugador. En el proyecto hacemos uso de la creación de salas además de instanciar a los jugadores que se unan dentro de la escena del juego.
 
 
 
